@@ -1,0 +1,32 @@
+.NavHeader {
+  background-color: #495057;
+  width: 672px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  /* display: flex; */
+  justify-content: space-evenly;
+  /* position: fixed; */
+  /* width: 35%; */
+  margin-bottom: 10px;
+}
+
+.Input {
+  /* position: absolute; */
+
+  display: flex;
+  color: white;
+  width: 920px;
+  gap: 30px;
+}
+
+.Input h4 {
+  font-family: "Poppins", sans-serif;
+}
+
+.button {
+  display: block;
+  /* margin-left: 100px; */
+  position: absolute;
+  left: 550px;
+  /* top: 15px; */
+}

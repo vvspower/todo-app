@@ -1,0 +1,21 @@
+.Input {
+  border: 1px solid #fd7e14;
+  padding: 8px;
+  border-radius: 50px;
+  font-family: "Poppins", sans-serif;
+}
+
+.button {
+  padding-top: 12px;
+}
+
+.button button {
+  padding: 8px;
+  width: 80px;
+  border-radius: 50px;
+  background-color: #fd7e14;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  border: none;
+  cursor: pointer;
+}

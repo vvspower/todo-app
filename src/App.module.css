@@ -1,0 +1,10 @@
+body {
+  background-color: #343a40;
+}
+
+.Layout {
+  margin: 0 auto;
+  width: 35%;
+  position: relative;
+  margin-top: 6%;
+}

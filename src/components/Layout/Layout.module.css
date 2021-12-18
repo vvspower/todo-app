@@ -1,0 +1,34 @@
+.Layout {
+  /* position: relative; */
+}
+.Layout h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  color: white;
+  /* text-align: center; */
+  padding-left: 270px;
+  padding-bottom: 10px;
+}
+
+.Layout aside {
+  max-height: 500px;
+  /* max-width: none; */
+  width: 672px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding-right: 20px;
+  box-sizing: content-box;
+}
+
+.Layout main {
+  color: red;
+  font-size: 10px;
+}
+
+.Todo {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+}

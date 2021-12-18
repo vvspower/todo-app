@@ -1,0 +1,39 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.List {
+  display: block;
+  /* border: 2px solid black; */
+  border-bottom: 2px solid #343a40;
+  white-space: nowrap;
+  color: white;
+  background-color: #495057;
+  width: 672px;
+  height: 80px;
+  position: relative;
+}
+
+.List button {
+  padding: 5px;
+  border-radius: 50px;
+  width: 70px;
+  border: 1px solid #f03e3e;
+  background-color: white;
+  position: absolute;
+  top: 25px;
+  left: 83%;
+  cursor: pointer;
+}
+
+.List h1 {
+  font-weight: 400;
+  color: #fd7e14;
+  margin-left: 10px;
+  padding-top: 8px;
+}
+
+.List p {
+  font-weight: 100;
+  margin-left: 10px;
+  /* margin-top: 10px; */
+}
